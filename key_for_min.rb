@@ -11,5 +11,5 @@ def key_for_min_value(name_hash)
     end
   end
 
-key_value
+ p key_value
 end
